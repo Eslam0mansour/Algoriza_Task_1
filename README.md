@@ -1,6 +1,10 @@
 # algoriza_task_1
 
-Onboarding lutter project.
+Onboarding Flutter project.
+
+
+https://user-images.githubusercontent.com/101331596/176369543-b801ba4d-5aa7-472c-91fc-a6a6ad87cbf4.mp4
+
 
 ## Getting Started
 
